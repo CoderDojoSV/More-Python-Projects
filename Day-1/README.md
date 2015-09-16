@@ -13,9 +13,11 @@ Once we have a sound, we can press "Play" on it at the appropriate moment:
 
 ### Challenge 1: Pong With Sounds
 
-Take the Pong game from Beginner Python and add some sounds to it! We've included a couple sound files for you to use, which you can download by clicking on them, right-clicking "Raw", and choosing "Save link as...". Put them in the same folder as your program.
+Take the Pong game from Beginner Python and add some sounds to it! If you don't have your Pong code any more, [here is a complete game](https://raw.githubusercontent.com/CoderDojoSV/beginner-python/master/Day-6/finished/pong%20finished.py). 
 
-### Challenge 2: Pong With (your own) Sounds
+We've included a couple sound files for you to use, which you can download by clicking on them, right-clicking "Raw", and choosing "Save link as...". Put them in the same folder as your program.
+
+### Challenge 2: Pong With (Your Own) Sounds
 
 The sounds we gave you were boring. Make your own using a program like Audacity, or download them from a website like [Freesound](https://www.freesound.org/)!
 
