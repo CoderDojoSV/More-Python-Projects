@@ -6,6 +6,6 @@ These projects are intended for kids who have finished the [Beginner Python seri
 
 [:rocket: Day 1 - Adding Sounds to Your Pygame Project](Day-1/)
 
-[:rocket: Day 2 - More HTML and CSS - Let's Make a Maze!](Day-2/)
+[:rocket: Day 2 - Using the Mouse in Pygame](Day-2/)
 
 
