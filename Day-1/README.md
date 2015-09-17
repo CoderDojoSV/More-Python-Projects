@@ -13,11 +13,13 @@ Once we have a sound, we can press "Play" on it at the appropriate moment:
 
 ### Challenge 1: Pong With Sounds
 
-Take the Pong game from Beginner Python and add some sounds to it! We've included a couple sound files for you to use, which you can download by clicking on them, right-clicking "Raw", and choosing "Save link as...". Put them in the same folder as your program.
+Take the Pong game from Beginner Python and add some sounds to it! If you don't have your Pong code any more, [here is a complete game](https://raw.githubusercontent.com/CoderDojoSV/beginner-python/master/Day-6/finished/pong%20finished.py) you can use. 
 
-### Challenge 2: Pong With (your own) Sounds
+On this GitHub page we've included a couple sound files for you to use, which you can download by clicking on them, right-clicking "Raw", and choosing "Save link as...". Put them in the same folder as your program.
 
-The sounds we gave you were boring. Make your own using a program like Audacity, or download them from a website like [Freesound](https://www.freesound.org/)!
+### Challenge 2: Pong With Your Own Sounds
+
+The sounds we gave you were boring. Record your own (with Audacity or another program) or download them from a website like [Freesound](https://www.freesound.org/)!
 
 ## Music!
 
@@ -39,10 +41,14 @@ Add some music to your Pong game! We've given you a track to use, but you can al
 
 Done with everything else? Here are some more things to try! You might need to use the [`pygame.mixer` documentation](http://pygame.org/docs/ref/mixer.html#pygame.mixer.Sound) to figure some things out yourself.
 
-### Challenge 4: Fading Out
+###Challenge 4: A Unique Sound for Everything
+
+Can you have a different sound for everything that happens in your game: the ball hitting paddle 1, the ball hitting paddle 2, scoring a point, the game starting, the game ending, etc. Get creative!
+
+### Challenge 5: Fading Out
 
 Make the music fade out at when you close the Pong window!
 
-### Challenge 5: Patatap
+### Challenge 6: Patatap
 
 Try and make something like [this](http://www.patatap.com/) in Python.
